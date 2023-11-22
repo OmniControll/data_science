@@ -1,2 +1,2 @@
-# data_science_project_grind
+# data_crunching
 data science projects
